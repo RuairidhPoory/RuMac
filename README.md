@@ -1,2 +1,2 @@
 # RuMac
-A website to buy and learn how to solve rubik's cubes.
+A website to buy and to learn how to solve rubik's cubes.
